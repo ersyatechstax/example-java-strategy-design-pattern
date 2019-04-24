@@ -8,8 +8,8 @@ Other words this design pattern allows you to create maintainable, independent, 
 This project is an implementation of strategy design pattern. Implemented using real life object vehicle.
 
 How to work with strategy design pattern?
-- Create new vehicle class such as bus, helicopter, bicycle, etc
-- Create new behavior for accelerate or brake if needed
+- Create new vehicle class such as bus, helicopter, bicycle, etc then extend it to Vehicle class
+- Create new behavior class for accelerate or brake and implement it to the behavior class (Optional)
 - Declare the class
 
 Happy Coding:D
